@@ -5,3 +5,5 @@
 5-Kubernetes
 6-Jenkins
 *******
+Evaluations : QCM + Un TP
+
